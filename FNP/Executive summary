@@ -1,0 +1,35 @@
+Executive Summary – Sales Analysis Dashboard
+
+This dashboard provides a comprehensive view of sales performance across different dimensions such as orders, revenue, customer behavior, product categories, and cities.
+
+Overall Performance
+
+    Total Orders: 1,000
+    
+    Total Revenue: ₹35,20,984
+    
+    Average Customer Spend: ₹3,520.98
+    
+    Average Order-to-Delivery Gap: 5.53 days
+
+Revenue Insights
+
+By Occasion: Anniversary and Raksha Bandhan are the strongest occasions, driving the highest revenues, while Diwali and Valentine’s Day generate comparatively lower sales.
+
+By Category: Colors contribute the highest revenue (~₹10 lakhs), followed by Soft Toys and Sweets. Categories like Mugs and Plants perform on the lower side.
+
+By Month: February and September are peak months for revenue, while mid-year months (May–July) show lower sales.
+
+By Hour: Sales are relatively steady throughout the day, with noticeable peaks around 5 AM–6 AM and 6 PM–7 PM, indicating high order activity during early morning and evening.
+
+Product & Customer Insights
+
+Top 5 Products: Items like Magnam Set, Dolores Gift, and Deserunt Box are key revenue drivers.
+
+Top Cities: Imphal, Dharbad, and Guntur stand out among the Top 10 cities by order volume, highlighting strong regional demand.
+
+Customer Behavior
+
+Customers spend consistently with an average basket size of ~₹3,521.
+
+Delivery timelines average just over 5 days, suggesting potential room for improvement in logistics for better customer satisfaction.
